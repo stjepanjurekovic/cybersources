@@ -1484,6 +1484,8 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [**NMAP Network Scanning: Official Discovery**](https://www.amazon.com/Nmap-Network-Scanning-Official-Discovery/dp/0979958717)                                                            | Official documentation for using Nmap for network discovery and vulnerability scanning.                           |
 | [**Social Engineering: The Art of Human Hacking**](https://www.amazon.com/Social-Engineering-Art-Human-Hacking/dp/0470639539)                                                             | Explores the psychological and technical aspects of social engineering and how to protect against it.             |
 | [**Incognito Toolkit: Tools, Apps, and Creative Methods for Remaining Anonymous**](https://www.amazon.com/Incognito-Toolkit-Communicating-Publishing-Researching/dp/0985049146)           | A guide to tools and techniques for maintaining anonymity online while communicating, publishing, or researching. |
+| [**Security Metrics: A measurement-driven approach to cyber risk reduction**](https://www.manning.com/books/security-metrics)           | A book about how to measure, improve, and communicate the value of your security program. |
+
 
 
 
